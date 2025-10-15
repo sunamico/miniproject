@@ -1,4 +1,0 @@
-/home/sunami/miniproject/build/CMakeFiles/calc.dir
-/home/sunami/miniproject/build/CMakeFiles/main.dir
-/home/sunami/miniproject/build/CMakeFiles/edit_cache.dir
-/home/sunami/miniproject/build/CMakeFiles/rebuild_cache.dir
