@@ -10,5 +10,4 @@ add_library(calc STATIC add.cpp)
 # Створення виконуваного файлу
 add_executable(main main.cpp)
 
-
 target_link_libraries(main calc)
