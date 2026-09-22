@@ -24,7 +24,6 @@ $(EXEC): $(OBJ_MAIN) $(LIB)
 # Компіляція об'єктних файлів
 %.o: %.cpp
 	$(CC) $(CFLAGS) -c $<
-
 # Очистка
 clean:
 	rm -f *.o $(LIB) $(EXEC)
